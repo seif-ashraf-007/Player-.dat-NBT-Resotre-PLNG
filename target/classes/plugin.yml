@@ -1,7 +1,0 @@
-name: NBTTransfer
-version: '1.0-SNAPSHOT'
-main: me.seif.nBTTransfer.NBTTransfer
-api-version: '1.20'
-commands:
-  transferdata:
-  fetchplayerdata:
